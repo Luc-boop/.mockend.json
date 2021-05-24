@@ -4,31 +4,31 @@
       {
         "id": 1,
         "title": "Administrador",
-        "Nombre": "Juanma"
+        "nombre": "Juanma"
       },
       {
         "id": 2,
         "title": "Administrador",
-        "Nombre": "Enrique"
+        "nombre": "Enrique"
       },
       {
         "id": 3,
        "title": "Administrador",
-        "Nombre": "Jose"
+        "nombre": "Jose"
       }
        {
         "id": 4,
        "title": "Administrador",
-        "Nombre": "Juan"
+        "nombre": "Juan"
       }
        {
         "id": 5,
        "title": "Administrador",
-        "Nombre": "Lucy"
+        "nombre": "Lucy"
       }
        "id": 6,
        "title": "Consultor",
-        "Nombre": "Jose Antonio Ramírez"
+        "nombre": "Jose Antonio Ramírez"
     ]
   }
 }
