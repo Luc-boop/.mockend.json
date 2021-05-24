@@ -1,0 +1,34 @@
+{
+  "data": {
+    "posts": [
+      {
+        "id": 1,
+        "title": "Administrador",
+        "Nombre": "Juanma"
+      },
+      {
+        "id": 2,
+        "title": "Administrador",
+        "Nombre": "Enrique"
+      },
+      {
+        "id": 3,
+       "title": "Administrador",
+        "Nombre": "Jose"
+      }
+       {
+        "id": 4,
+       "title": "Administrador",
+        "Nombre": "Juan"
+      }
+       {
+        "id": 5,
+       "title": "Administrador",
+        "Nombre": "Lucy"
+      }
+       "id": 6,
+       "title": "Consultor",
+        "Nombre": "Jose Antonio Ramírez"
+    ]
+  }
+}
